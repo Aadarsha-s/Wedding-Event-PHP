@@ -1,0 +1,36 @@
+body{
+	margin: 0 auto;
+	background-image:url('../images/black.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 1000px;
+}
+#container{
+	width: 500px;
+	height: 370px;
+	text-align: center;
+	background-color: rgba(37, 56, 60, 0.40);	
+	border-radius: 4px;
+	margin: 0 auto;
+	margin-top: 150px;
+}
+input{
+	height: 45px;
+	width: 300px;
+	font-size: 15px;
+	margin-bottom: 25px;
+	background-color: #ddd;
+	padding-left: 10px;	
+}
+.login{
+	padding: 15px 30px;
+	cursor: pointer;
+	font-size: 20px;
+	color: #fff;
+	background-color:#2B547E;
+	border-radius: 5px;
+	border: none;
+}
+a{
+	color: #fff;
+		
+}
